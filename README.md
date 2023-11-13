@@ -6,20 +6,19 @@ Proyek ini bertujuan untuk mengumpulkan data putusan Mahkamah Agung Republik Ind
 Mengapa Scrapping Diperlukan?
 Aksesibilitas Informasi: Memastikan bahwa informasi putusan Mahkamah Agung dapat diakses dengan mudah dan cepat oleh berbagai pihak, termasuk masyarakat umum, praktisi hukum, dan peneliti.
 
-Analisis Hukum: Menyediakan data yang dapat digunakan untuk analisis hukum, termasuk tren hukum, statistik peradilan, dan evaluasi putusan tertentu.
+- Analisis Hukum: Menyediakan data yang dapat digunakan untuk analisis hukum, termasuk tren hukum, statistik peradilan, dan evaluasi putusan tertentu.
 
-Transparansi dan Akuntabilitas: Meningkatkan transparansi dan akuntabilitas sistem peradilan dengan memberikan akses terbuka ke putusan-putusan yang dikeluarkan oleh Mahkamah Agung.
+- Transparansi dan Akuntabilitas: Meningkatkan transparansi dan akuntabilitas sistem peradilan dengan memberikan akses terbuka ke putusan-putusan yang dikeluarkan oleh Mahkamah Agung.
 
-Penggunaan Data
+- Penggunaan Data
 Data yang diperoleh dari proses web scraping dapat digunakan untuk:
 
-Penelitian Hukum: Menganalisis kebijakan hukum, tren, dan dampak putusan tertentu.
-Pemantauan Peradilan: Mengikuti perkembangan dalam sistem peradilan dan melacak putusan yang relevan.
-Pengembangan Aplikasi Hukum: Membangun aplikasi atau alat yang memanfaatkan data putusan Mahkamah Agung.
+- Penelitian Hukum: Menganalisis kebijakan hukum, tren, dan dampak putusan tertentu.
+- Pemantauan Peradilan: Mengikuti perkembangan dalam sistem peradilan dan melacak putusan yang relevan.
+- Pengembangan Aplikasi Hukum: Membangun aplikasi atau alat yang memanfaatkan data putusan Mahkamah Agung.
+  
 Cara Menggunakan Scraper
-Persiapkan Lingkungan: Pastikan Anda memiliki Python dan pustaka yang dibutuhkan yang tercantum dalam file requirements.txt.
-
-Unduh Kode: Unduh atau klon kode dari repositori ini.
+- Persiapkan Lingkungan: Pastikan Anda memiliki Python dan pustaka yang dibutuhkan yang tercantum dalam file requirements.txt.
 
 Atur Parameter: Sesuaikan parameter scraper sesuai kebutuhan Anda, seperti kata kunci, URL, atau opsi lainnya dalam file scraper.py.
 
